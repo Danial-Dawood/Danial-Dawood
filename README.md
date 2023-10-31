@@ -7,7 +7,7 @@
   - osTicket - Post-Installation Configuration - https://github.com/Danial-Dawood/Post-Installation-and-training-.git
   
 - <b>Microsoft Azure</b>
-  - Configuring On-premises Active Directory within Azure VMs - Update README.md
+  - Configuring On-premises Active Directory within Azure VMs - https://github.com/Danial-Dawood/Active-Directory-with-Azure-Virtual-Machines-.git
     
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
