@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - Configuring On-premises Active Directory within Azure VMs - https://github.com/Danial-Dawood/Active-Directory-with-Azure-Virtual-Machines-.git
   - Building Intuition For DNS https://github.com/Danial-Dawood/Building-Intuition-For-DNS
-  - Network Security Groups & Inspection of Network Protocols (https://github.com/Danial-Dawood/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+  - Network Security Groups & Inspection of Network Protocols https://github.com/Danial-Dawood/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols
 
 <h2>🤳Connect with me:</h2>
 
