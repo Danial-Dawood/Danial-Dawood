@@ -11,8 +11,5 @@
   - Building Intuition For DNS https://github.com/Danial-Dawood/Building-Intuition-For-DNS
   - Network Security Groups & Inspection of Network Protocols https://github.com/Danial-Dawood/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols
 
-<h2>🤳Connect with me:</h2>
-
-[linkedin]: www.linkedin.com/in/danial-dawood-54b363185
 
 
